@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cola | Academic</title>
+    <link>https://example.com/tag/cola/</link>
+      <atom:link href="https://example.com/tag/cola/index.xml" rel="self" type="application/rss+xml" />
+    <description>cola</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>cola</title>
+      <link>https://example.com/tag/cola/</link>
+    </image>
+    
+    <item>
+      <title>Из чего на самом деле делают Coca-Cola.</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;coca-cola&#34;&gt;Coca-cola&lt;/h2&gt;
+&lt;p&gt;Доподлинно состав напитка неизвестен, так как держался создателем в секрете. Пембертон сам занимался приготовлением сиропа, который поставлял и в другие аптеки города.&lt;/p&gt;
+&lt;p&gt;Готовая Coca-Cola представляла собой густой концентрированный сироп, который следовало разбавить водой перед употреблением. Продавался напиток из автомата, который разливал его в стаканы.&lt;/p&gt;
+&lt;p&gt;Шипучим напитком Кока-Кола стала через год после своего появления. В одной из аптек закончилась обычная вода и покупателям предложили разбавить лекарственный сироп содовой.&lt;/p&gt;
+&lt;p&gt;Такой вариант весьма понравился жителям Атланты. Именно в тот момент напиток стал постепенно завоёвывать свои позиции, покорив сначала штат Джорджия, затем Америку, а потом и весь мир.&lt;/p&gt;
+&lt;p&gt;К 1900 году Coca-Cola имела уже сумасшедшую популярность и высокие продажи. Изменился состав напитка – в перечне его ингредиентов появились ортофосфорная кислота и синтетические заменители сахара. Полноценный экстракт листьев коки, напротив, был исключён из перечня – компания утверждала, что для производства Кока-Колы использует сырьё, полностью освобождённое от кокаина.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
